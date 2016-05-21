@@ -1,8 +1,6 @@
 # Mailsyn
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/mailsyn`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem facilitates It professionals work with mailboxes. With the help of it you can migrate the mailboxes from one server to another, or move specific email folders between mailboxes.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Will be written after the release of the first beta version.
 
 ## Development
 
